@@ -1,0 +1,7 @@
+﻿  3.17.cpp
+C:\c_code\HW1\HW1\3.17.cpp(9,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c_code\HW1\HW1\3.17.cpp(16,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c_code\HW1\HW1\3.17.cpp(19,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c_code\HW1\HW1\3.17.cpp(22,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c_code\HW1\HW1\3.17.cpp(25,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW1.vcxproj -> C:\c_code\HW1\x64\Debug\HW1.exe

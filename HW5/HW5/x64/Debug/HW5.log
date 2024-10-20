@@ -1,0 +1,4 @@
+﻿  3.33.cpp
+C:\c_code\HW5\HW5\3.33.cpp(7,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\c_code\HW5\HW5\3.33.cpp(10,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW5.vcxproj -> C:\c_code\HW5\x64\Debug\HW5.exe
